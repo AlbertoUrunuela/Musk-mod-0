@@ -18,7 +18,7 @@ function elementosRepetidos(conjunto, arrayUno){
    }
 
    if(repetidos.size === 0){
-s
+
       console.log("Todos los elementos del primer conjunto están en el segundo");
 
    }else{
